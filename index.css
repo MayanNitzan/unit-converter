@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 25px;
+    background-color: #6943FF;
+}
+
+#hero {
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+h1, #input-el {
+    font-weight: 800;
+    color: white;
+}
+
+#title {
+    font-size: 28px;
+    margin-bottom: 0px;
+}
+
+#input-el {
+    font-size: 58px;
+    margin-top: 40px;
+    margin-bottom: 27px;    
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    padding: 9px 18px 9px 18px;
+    background-color: #6943FF;
+    text-align: center;
+    width: 200px;
+}
+
+input::placeholder {
+    color: #998DCD;
+}
+
+#btn-el {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: white;
+    border: none;
+    padding: 12px 24px 12px 24px;
+    border-radius: 5px;
+    color: #3D3D3D;
+}
+
+#values {
+    background-color: #f4f4f4;
+    width: 100%;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #5A537B;
+}
+
+h3 {
+    font-Weight: 400;
+    font-size: 14px;
+    color: #353535;
+}
+
+.the-values {
+    background-color: white;
+    margin: 25px;
+    border-radius: 5px;
+    padding: 8px;
+}
