@@ -20,7 +20,7 @@ A unit converter webpage that converts values between different units of measure
 
 ## Screenshot
 
-![Project screenshot](media/birthday-card.png)
+![Project screenshot](unit-converter.png)
 
 ## What I Learned
 
