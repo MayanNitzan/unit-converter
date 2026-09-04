@@ -8,8 +8,7 @@ A unit converter webpage that converts values between different units of measure
 
 ## Features
 
-- Convert between different units of measurement
-- Length, volume, and mass conversions
+- Convert between different units of measurement (Length, volume, and mass)
 - Simple and user-friendly interface
 - Instant conversion results
 
